@@ -1,7 +1,4 @@
 # Profile
-<div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/v2/D4D16AQFGasUDrYjCmA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735677071382?e=1741219200&v=beta&t=5KSXmEbbRyRade_ivwBtrIXPw94--jtXTSenNLCVj0c"  />
-</div>
 
 ###
 
