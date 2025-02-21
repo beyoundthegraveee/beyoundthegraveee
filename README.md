@@ -25,7 +25,7 @@
 
 ###
 
-<h1 align="center">Greetings, fellow tech enthusiasts! 🚀</h1>
+<h1 align="center">Greetings! 🚀</h1>
 
 ###
 
