@@ -21,12 +21,10 @@
 ### 👩‍💻 About Me
 I am a **Backend Engineer** with a strong focus on building high-performance, scalable distributed systems. I specialize in the **Java/Spring Boot** ecosystem and have a proven track record of optimizing database performance and architecting RESTful APIs.
 
-* **Key Expertise:** Java, JavaScript, Spring Framework, React, PostgreSQL, and Cloud Infrastructure (GCP).
-* **Philosophy:** If it`s working, do not touch it.
-
 ### 🛠 Tech Stack
 * **Languages:** Java, JavaScript.
 * **Backend:** Spring Boot, Spring Framework, Spring Security, Apache Kafka.
+* **Frontend:** React, Node.js, Express.js.
 * **Databases:** PostgreSQL, MSSQL, Oracle, MySQL.
 * **Tools:** Docker, Maven, Git, JUnit/Mockito, GCP.
 
