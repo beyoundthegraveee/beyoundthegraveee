@@ -16,21 +16,22 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=beyoundthegraveee.beyoundthegraveee&" />
 </div>
 
-<h1 align="center">🚀 Android & Web Developer</h1>
+<h1 align="center">🚀 Software Engineer (Java / Backend)</h1>
 
 ### 👩‍💻 About Me
-I'm a developer focused on building data-driven applications. Currently diving deep into **Android (Kotlin)** and refining my skills in **Backend (C#, Node.js)**.
+I am a **Backend Engineer** with a strong focus on building high-performance, scalable distributed systems. I specialize in the **Java/Spring Boot** ecosystem and have a proven track record of optimizing database performance and architecting RESTful APIs.
 
-* **Current Focus:** Migrating a CS:GO/CS2 match prediction engine from Web to a Mobile platform.
-* **Thesis Project:** Developing a marketplace platform for digital creators (brushes, fonts, assets).
-* **Tech Stack:** Kotlin, Java, C#, Express.js, PostgreSQL/Oracle.
+* **Current Projects:** Working on a prediction engine for CS match statistics (HLTV data) and a marketplace platform for digital designers (thesis).
+* **Key Expertise:** Java, Spring Boot, Spring Data JPA, PostgreSQL, and Cloud Infrastructure (GCP).
+* **Philosophy:** I prioritize clean architecture, code quality, and performance optimization (GIN indexes, JPA Criteria API).
 
-### 🎯 Goals
-* Master **Jetpack Compose** for modern Android UI.
-* Automate complex data scraping and analysis for eSports statistics.
-* Explore Cloud fundamentals (AWS).
+### 🛠 Tech Stack
+* **Languages:** Java, JavaScript, C#.
+* **Backend:** Spring Boot, Spring Security, Apache Kafka, Node.js.
+* **Databases:** PostgreSQL, MSSQL, Oracle, MySQL.
+* **Tools:** Docker, Maven, Git, JUnit/Mockito, GCP.
 
-### 🔥 Stats & Activity
+### 🔥 Stats
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=beyoundthegraveee&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
